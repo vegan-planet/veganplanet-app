@@ -1,0 +1,2 @@
+# veganplanet-applets
+veganplanet-applets
